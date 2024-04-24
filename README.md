@@ -1,0 +1,2 @@
+# item_modifier-copy_components
+item_modifierの1項目であるcopy_componentsのサンプルになります。
