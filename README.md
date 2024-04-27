@@ -1,8 +1,7 @@
 # item_modifier-copy_components
 item_modifierの1項目であるcopy_componentsのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】copy_componentsでコンポーネントをコピー【item_modifier】](https://natsumake.com/item_modifier-copy_components/)』を参考にしてください。
 
 <h3>概要</h3>
 コンポーネントをコピーして適用させることが出来ます。
